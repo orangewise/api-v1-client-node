@@ -22,7 +22,7 @@
     "bitcoin"
   ],
   "dependencies": {
-    "request": "^2.53.0"
+    "request": "^2.79.0"
   },
   "engine": "node 0.10.36"
 }
